@@ -32,7 +32,7 @@ def SendGPSPosition():
 
 
 # Set mobile number here
-MobileNumber = "01752051617"
+MobileNumber = "017412312312"
 lastmessage = 'Stop'
 
 print "Booting modem ..."
